@@ -1,6 +1,6 @@
 # Apple Tree Defense
 
-Unity 6 기반 타워 디펜스 게임의 소스코드 공개 레포지토리입니다. 3일간 개발한 게임의 소스코드입니다.
+Unity 6 기반 타워 디펜스 게임의 소스코드 공개 레포지토리입니다. 3일간 개발한 게임의 소스코드입니다. 이곳에 올린 소스코드는 순수하게 본인이 작성한 코드만을 업로드하였습니다.
 
 [2025 게임잼 소개](https://www.gamemadang.or.kr/Board/gamejam_winners2/Detail/2)
 
