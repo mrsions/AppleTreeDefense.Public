@@ -2,6 +2,10 @@
 
 Unity 6 기반 타워 디펜스 게임의 소스코드 공개 레포지토리입니다. 3일간 개발한 게임의 소스코드입니다.
 
+[2025 게임잼 소개](https://www.gamemadang.or.kr/Board/gamejam_winners2/Detail/2)
+
+[2025 게임잼 수상](https://www.gamemadang.or.kr/Board/gamejam_winners2/Detail/13)
+
 ## 프로젝트 개요
 
 7일간의 낮/밤 루프를 기반으로 하는 타워 디펜스 게임으로, 플레이어의 선택과 성장 방향에 따라 9개 이상의 엔딩으로 분기됩니다. 사과나무를 지키며 방어 타워를 배치하고, 몰려오는 적들을 막아내는 것이 목표입니다.
